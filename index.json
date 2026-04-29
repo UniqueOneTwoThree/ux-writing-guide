@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "guides": [
+    { "id": "toast",      "label": "토스트 메시지", "url": "https://raw.githubusercontent.com/UniqueOneTwoThree/ux-writing-guide/main/toast.md" },
+    { "id": "modal",      "label": "모달",          "url": "https://raw.githubusercontent.com/UniqueOneTwoThree/ux-writing-guide/main/modal.md" },
+    { "id": "popup",      "label": "팝업",          "url": "https://raw.githubusercontent.com/UniqueOneTwoThree/ux-writing-guide/main/popup.md" },
+    { "id": "cta",        "label": "CTA 버튼",      "url": "https://raw.githubusercontent.com/UniqueOneTwoThree/ux-writing-guide/main/cta.md" },
+    { "id": "error",      "label": "오류 메시지",   "url": "https://raw.githubusercontent.com/UniqueOneTwoThree/ux-writing-guide/main/error.md" },
+    { "id": "onboarding", "label": "온보딩",        "url": "https://raw.githubusercontent.com/UniqueOneTwoThree/ux-writing-guide/main/onboarding.md" },
+    { "id": "empty",      "label": "빈 상태",       "url": "https://raw.githubusercontent.com/UniqueOneTwoThree/ux-writing-guide/main/empty.md" },
+    { "id": "form",       "label": "폼 & 입력",     "url": "https://raw.githubusercontent.com/UniqueOneTwoThree/ux-writing-guide/main/form.md" }
+  ]
+}
