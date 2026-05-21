@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "guides": [
-    { "id": "base",      "label": "필수", "url": "https://raw.githubusercontent.com/UniqueOneTwoThree/ux-writing-guide/main/base.md" },
+    { "id": "base",      "label": "하나은행", "url": "https://raw.githubusercontent.com/UniqueOneTwoThree/ux-writing-guide/main/base.md" },
     { "id": "toast",      "label": "토스트 메시지", "url": "https://raw.githubusercontent.com/UniqueOneTwoThree/ux-writing-guide/main/toast.md" },
     { "id": "modal",      "label": "모달",          "url": "https://raw.githubusercontent.com/UniqueOneTwoThree/ux-writing-guide/main/modal.md" },
     { "id": "popup",      "label": "팝업",          "url": "https://raw.githubusercontent.com/UniqueOneTwoThree/ux-writing-guide/main/popup.md" },
